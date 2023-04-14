@@ -1,7 +1,8 @@
-# Título del proyecto: Mi primer trabajo
+# Título: Mi primer trabajo para NUCBA!
+
 
 ## Descripción🚀
-Este es mi primer proyecto en GitHub.
+Este es mi primer proyecto en GitHub, espero les guste.
 
 
 ## Contribuciones🚀
